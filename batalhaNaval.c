@@ -77,7 +77,7 @@ int posicionar_navio(int tabuleiro[TABULEIRO][TABULEIRO], int linha_inicial, int
     }
 
     return 0; 
-
+}
 // Função para exibir o tabuleiro
 
 void exibir_tabuleiro(int tabuleiro[TABULEIRO][TABULEIRO]){
